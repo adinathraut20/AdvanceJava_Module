@@ -1,0 +1,6 @@
+com\amazonaws\lambda\demo\JsonResPojo.class
+com\amazonaws\lambda\demo\Response.class
+com\amazonaws\lambda\demo\DataPojo.class
+com\amazonaws\lambda\demo\LambdaFunctionHandler.class
+com\amazonaws\lambda\demo\JdbcConnector.class
+com\amazonaws\lambda\demo\QueryParser.class

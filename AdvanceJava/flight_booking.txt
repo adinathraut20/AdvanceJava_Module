@@ -1,0 +1,32 @@
+Flight Booking System
+users : 1. admin  2. customer
+
+admin
+-login [ hard coded ]
+-manage flight details[ add/update/delete/show ]
+-logout 
+
+customer
+-search using [to from and date]
+-book seats [ enter no. of seats,name,contact no ]
+
+Flight
+-flight_no
+-to
+-from
+-date
+-time
+-no_of_seats
+-booked_seats
+-amount
+
+optional
+
+Booking
+-booking id
+-flight no {FK}
+-cust name
+-contact no
+-no_seats
+
+	
